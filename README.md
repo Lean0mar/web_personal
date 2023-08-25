@@ -1,30 +1,29 @@
-# Web Personal de Leandro Martínez
+<h1 align="center">Web Personal de Leandro Martínez! 👋</h1>
+Esta página web es un vistazo personal a mis intereses, habilidades y pasiones en el mundo de la tecnología.
 
-Bienvenido a mi web personal. Aquí encontrarás información sobre mí, mis intereses y cómo contactarme. Esta página fue creada como parte de un trabajo para un curso, y representa mi pasión por la tecnología y la programación.
+<h2 align="left">📄 Secciones</h2>
 
-## Contenido
+- Acerca de mí: Conoce más sobre mi vida y mis objetivos.
+- Intereses: Descubre mis intereses en programación, proyectos personales y más.
+- Contacto: Información sobre cómo puedes contactarme.
 
-1. **[Acerca de mí](#acerca-de-mi):** Conoce más sobre mi vida, mis objetivos y lo que me motiva en el mundo de la tecnología.
-2. **[Intereses](#intereses):** Aquí encontrarás un resumen de mis intereses, que van desde lenguajes de programación hasta contribuciones comunitarias y pasatiempos tecnológicos.
-3. **[Contacto](#contacto):** Información de cómo puedes contactarme.
+<h2 align="left">💻 Tecnologías</h2>
 
-## Vista Previa
-
-![Vista Previa](URL_DE_IMAGEN_DE_VISTA_PREVIA)
-
-## Tecnologías Utilizadas
+Este proyecto fue construido usando:
 
 - HTML
 - CSS
 
-## Cómo Iniciar
+<h2 align="left">🌐 Contacto</h2>
 
-Para ver esta página en tu navegador local, simplemente abre el archivo `index.html` en tu navegador favorito.
+Puedes contactarme a través de mi correo electrónico:
+<a href="mailto:lm.martinez.leandro@gmail.com">lm.martinez.leandro@gmail.com</a>
 
-## Contacto
+<h2 align="left">⚡ Créditos</h2>
 
-Si tienes alguna pregunta o comentario, no dudes en enviarme un correo electrónico a [lm.martinez.leandro@gmail.com](mailto:lm.martinez.leandro@gmail.com).
+- Imágenes de perfil y de fondo obtenidas de diversas fuentes en línea.
+- Inspiración y motivación de amigos, familiares y colegas.
 
-## Licencia
+<h2 align="left">📖 Licencia</h2>
 
 © 2023 Leandro Martinez. Todos los derechos reservados.
