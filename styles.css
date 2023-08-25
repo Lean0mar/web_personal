@@ -1,52 +1,150 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 20px;
-    color: #333;
+	font-family: Arial, sans-serif;
+	background-color: #f4f4f4;
+	margin: 0;
+	color: #333;
 }
 
 header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #303F9F;
-    color: #fff;
-    padding: 15px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #1c1c1c;
+	color: #fff;
+	padding: 30px;
+	position: sticky;
+	top: 0;
+	z-index: 100;
 }
 
 header h1 {
-    margin: 0;
+	margin: 0;
 }
 
 nav a {
-    color: #fff;
-    text-decoration: none;
-    padding: 10px;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.title {
+	margin: 0px 0px 0px 10px;
 }
 
 section {
-    padding: 20px;
-    background: #fff;
-    margin: 20px 0;
-    border-radius: 5px;
+	padding: 60px;
+	background: #fff;
+	margin: 40px 20px;
+	border-radius: 10px;
+	position: relative;
 }
 
-h2 {
-    color: #303F9F;
+#acerca-de-mi img {
+	float: left;
+	margin-right: 20px;
+	border-radius: 50%;
+	width: 190px;
+}
+
+.about-container{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#intereses {
+	padding: 60px;
+	background: #fff;
+	margin: 40px 20px;
+	border-radius: 10px;
+	position: relative;
+}
+
+.interests-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.interest-card {
+	padding: 20px;
+	margin: 10px;
+	border-radius: 8px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+	flex: 1 0 30%;
+	position: relative;
+	transition: all 0.3s ease;
+	cursor: pointer;
+	color: #fff;
+}
+
+#card1 {
+	background-image: url(https://fedingo.com/wp-content/uploads/2022/02/plot-graph-csv-python.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#card2 {
+	background-image: url(https://img.freepik.com/vector-gratis/computadora-portatil-icono-isometrico-codigo-programa-desarrollo-software-aplicaciones-programacion-neon-oscuro_39422-971.jpg?size=626&ext=jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#card3 {
+	background-image: url(https://wallpapercave.com/wp/wp7471881.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#card4 {
+	background-image: url(https://th.bing.com/th/id/R.5adc22fc8794846720a24f5446b47bb4?rik=jbODW89W3tKZrw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fb%2f0%2ff%2f834466-learning-wallpapers-2560x1600-for-android.jpg&ehk=j60P32P0FsDO8DRnC029jD4lKzY1mdOa4VaTABilClc%3d&risl=&pid=ImgRaw&r=0);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#card5 {
+	background-image: url(https://gitprotect.io/blog/wp-content/uploads/2022/03/GitHub-secure-800x400.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#card6 {
+	background-image: url(https://th.bing.com/th/id/R.0d07f9f36bcc1f0946a86a1f1dc58c50?rik=AZPBtc6Jy56Hvg&pid=ImgRaw&r=0);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.interest-card:hover {
+	transform: translateY(-10px);
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.interest-card h3 {
+	font-size: 1.2rem;
+	margin: 10px 0;
+}
+
+.interest-card p {
+	font-size: 1rem;
 }
 
 footer {
-    text-align: center;
-    padding: 10px;
-    background: #303F9F;
-    color: #fff;
+	text-align: center;
+	padding: 10px;
+	background: #1c1c1c;
+	color: #fff;
 }
 
 a {
-    color: #303F9F;
+	color: #000;
 }
 
 a:hover {
-    text-decoration: underline;
+	text-decoration: underline;
 }
