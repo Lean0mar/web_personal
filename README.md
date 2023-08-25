@@ -26,4 +26,4 @@ Puedes contactarme a través de mi correo electrónico:
 
 <h2 align="left">📖 Licencia</h2>
 
-© 2023 Leandro Martinez. Todos los derechos reservados.
+<p align="center">© 2023 Leandro Martinez. Todos los derechos reservados.</p>
