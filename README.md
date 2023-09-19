@@ -1,29 +1,28 @@
-<h1 align="center">Web Personal de Leandro Martínez! 👋</h1>
-Esta página web es un vistazo personal a mis intereses, habilidades y pasiones en el mundo de la tecnología.
+<h1 align="center">Leandro Martinez's Personal Website! 👋</h1>
+This website is a personal glimpse into my interests, skills, and passions in the world of technology.
 
-<h2 align="left">📄 Secciones</h2>
+<h2 align="left">📄 Sections</h2>
 
-- Acerca de mí: Conoce más sobre mi vida y mis objetivos.
-- Intereses: Descubre mis intereses en programación, proyectos personales y más.
-- Contacto: Información sobre cómo puedes contactarme.
+- About Me: Learn more about my life and goals.
+- Interests: Discover my interests in programming, personal projects, and more.
+- Contact: Information on how you can reach out to me.
 
-<h2 align="left">💻 Tecnologías</h2>
+<h2 align="left">💻 Technologies</h2>
 
-Este proyecto fue construido usando:
+This project was built using:
 
 - HTML
 - CSS
 
-<h2 align="left">🌐 Contacto</h2>
+<h2 align="left">🌐 Contact</h2>
 
-Puedes contactarme a través de mi correo electrónico:
+You can contact me via email:
 <a href="mailto:lm.martinez.leandro@gmail.com">lm.martinez.leandro@gmail.com</a>
 
-<h2 align="left">⚡ Créditos</h2>
+<h2 align="left">⚡ Credits</h2>
 
-- Imágenes de perfil y de fondo obtenidas de diversas fuentes en línea.
-- Inspiración y motivación de amigos, familiares y colegas.
+- Profile and background images sourced from various online sources.
 
-<h2 align="left">📖 Licencia</h2>
+<h2 align="left">📖 License</h2>
 
-<p align="center">© 2023 Leandro Martinez. Todos los derechos reservados.</p>
+<p align="center">© 2023 Leandro Martinez. All rights reserved.</p>
